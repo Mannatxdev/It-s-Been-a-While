@@ -23,11 +23,17 @@ JavaScript (ES6): Logic for the real-time timer and interactive UI elements.
 📂 Project Structure
 
 Plaintext
+
 It-s-Been-a-While/
+
 ├── assets/          # Project images (her.png, favicon)
+
 ├── index.html       # Main structure
+
 ├── style.css        # Premium UI styling
+
 ├── script.js        # Timer and interaction logic
+
 └── README.md        # Project documentation
 
 🚀 Installation & Usage
@@ -35,12 +41,17 @@ It-s-Been-a-While/
 1. Clone the repository:
 
 Bash
+
 git clone https://github.com/your-username/It-s-Been-a-While.git
+
 2. Navigate to the directory:
 
 Bash
+
 cd It-s-Been-a-While
+
 3. Open the project:
+
 Simply open index.html in any modern browser, or use the Live Server extension in VS Code for the best experience.
 
 👨‍💻 Developer Details
